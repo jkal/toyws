@@ -1,0 +1,9 @@
+Note: This is a _really_ old project I found in old archives from when I was
+trying to learn about web servers and C and Unix. I don't know if it compiles
+or if it works. I'm putting it here for historical purposes.
+
+---
+
+Single-threaded toy web server using libev, libeio and ry's http-parser.
+
+Run `premake` to generate a Makefile and `make` to compile.
